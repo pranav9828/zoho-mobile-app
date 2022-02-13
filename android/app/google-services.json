@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113910192930",
+    "project_id": "zoho-2f7ae",
+    "storage_bucket": "zoho-2f7ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113910192930:android:efe85a3547bcc1801fe37b",
+        "android_client_info": {
+          "package_name": "com.example.feedback_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113910192930-5fp1mv5o1s463eg4nuio3seaurjlu0oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkFQvnrcORorljUOtfqtJCDOBG2gCYbsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113910192930-5fp1mv5o1s463eg4nuio3seaurjlu0oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
